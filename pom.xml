@@ -12,7 +12,7 @@
 
   
   <properties>
-  <sonar.projectKey>trishchak_azure</sonar.projectKey>
+  <sonar.projectKey>trishchak_sonar</sonar.projectKey>
   <sonar.organization>trishchak</sonar.organization>
   <sonar.host.url>https://sonarcloud.io</sonar.host.url>
   <sonar.login>1c2e046e5722b10ca31e53534c9b73760d465a24</sonar.login>
