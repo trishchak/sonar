@@ -1,0 +1,7 @@
+organization=trishchak
+projectKey=trishchak_azure
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.3300
+dashboardUrl=https://sonarcloud.io/dashboard?id=trishchak_azure
+ceTaskId=AW7dDd1BoIxKA60RYBSh
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AW7dDd1BoIxKA60RYBSh
